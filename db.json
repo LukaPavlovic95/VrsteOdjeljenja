@@ -1,0 +1,28 @@
+{
+  "entities": [
+    {
+      "datumOd": "2022-11-20T12:42:25.226Z",
+      "datumDo": "2022-11-20T12:42:25.226Z",
+      "id": 1,
+      "naziv": "Vrsta odjeljenja 1"
+    },
+    {
+      "datumOd": "2022-11-20T12:42:25.226Z",
+      "datumDo": "2022-11-20T12:42:25.226Z",
+      "id": 2,
+      "naziv": "Vrsta odjeljenja 2"
+    },
+    {
+      "datumOd": "2022-11-20T12:42:25.226Z",
+      "datumDo": "2022-11-20T12:42:25.226Z",
+      "id": 3,
+      "naziv": "Vrsta odjeljenja 3"
+    },
+    {
+      "datumOd": "2022-11-20T12:42:25.226Z",
+      "datumDo": "2022-11-20T12:42:25.226Z",
+      "id": 4,
+      "naziv": "Vrsta odjeljenja 4"
+    }
+  ]
+}
